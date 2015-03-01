@@ -37,7 +37,7 @@ var meshB = {
   ]
 }
 
-mesh = mergeMeshes([meshA, meshB]);
+var mesh = mergeMeshes([meshA, meshB]);
 
 console.log(mesh);
 /*
