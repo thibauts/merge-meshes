@@ -1,0 +1,21 @@
+{
+  "name": "merge-meshes",
+  "version": "1.0.0",
+  "description": "Merges multiple meshes into one",
+  "author": "thibauts",
+  "license": "MIT",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thibauts/merge-meshes.git"
+  },
+  "keywords": [
+    "merge",
+    "meshes"
+  ]
+}
